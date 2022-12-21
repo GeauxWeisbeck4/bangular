@@ -10,15 +10,17 @@ a {
 }
 
 a:hover {
-  color: red;
+  color: green;
 }
 
 .navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: rgb(180, 240, 255);
 }
 
 .navlinks {
   margin-right: 1rem;
 }
+
